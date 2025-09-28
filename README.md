@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KennedyNwaneri
-- 👀 I’m interested in Web designing and coding
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on Pythom
-- 📫 How to reach me +2348101594651
+- 👀 I’m a Web designer and coder
+- 🌱 I’m currently learning HTML
+- 💞️ I’m looking to collaborate on Python
+- 📫 How to reach me +2348105212269
 
 <!---
 KennedyNwaneri/KennedyNwaneri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
